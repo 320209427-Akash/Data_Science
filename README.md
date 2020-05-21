@@ -17,5 +17,5 @@ My Solutions to [Datacamp Projects]
 | Project | Description |
 | --- | --- |
 
-| [`A New Era of Data Analysis in Baseball`](https://github.com/adzeo1047/Data_Science/blob/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball.ipynb)|[Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.]
-| [`Analyze Your Runkeeper Fitness Data`](https://github.com/adzeo1047/Data_Science/blob/master/Analyze%20Your%20Runkeeper%20Fitness%20Data.ipynb)|[Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app..]
+| [`A New Era of Data Analysis in Baseball`](https://github.com/adzeo1047/Data_Science/blob/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball.ipynb)|[Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.] |
+| [`Analyze Your Runkeeper Fitness Data`](https://github.com/adzeo1047/Data_Science/blob/master/Analyze%20Your%20Runkeeper%20Fitness%20Data.ipynb)|[Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app..] |
