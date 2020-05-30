@@ -23,4 +23,4 @@ My Solutions to [Datacamp Projects]
 | [`TV, Halftime Shows, and the Big Game`](https://github.com/adzeo1047/Data_Science/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game.ipynb) |Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.  |
 | [`Which Debts Are Worth the Bank's Effort?`](https://github.com/adzeo1047/Data_Science/blob/master/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort.ipynb) | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | [`Exploring the Bitcoin cryptocurrency market`](https://github.com/adzeo1047/Data_Science/blob/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market.ipynb) | You will explore the market capitalization of Bitcoin and other cryptocurrencies.|
-
+| [`Predicting Credit Card Approvals`](https://github.com/adzeo1047/Data_Science/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb) | Build a machine learning model to predict if a credit card application will get approved.|
