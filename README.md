@@ -25,4 +25,5 @@ My Solutions to [Datacamp Projects]
 | [`Exploring the Bitcoin cryptocurrency market`](https://github.com/adzeo1047/Data_Science/blob/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market.ipynb) | You will explore the market capitalization of Bitcoin and other cryptocurrencies.|
 | [`Predicting Credit Card Approvals`](https://github.com/adzeo1047/Data_Science/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb) | Build a machine learning model to predict if a credit card application will get approved.|
 | [`Do Left-handed People Really Die Young?`](https://github.com/adzeo1047/Data_Science/blob/master/Do%20Left-handed%20People%20Really%20Die%20Young.ipynb) | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties.|
+| [`Give Life: Predict Blood Donations`](https://github.com/adzeo1047/Data_Science/blob/master/Give%20Life_%20Predict%20Blood%20Donations.ipynb) | Build a binary classifier to predict if a blood donor is likely to donate again.|
 
